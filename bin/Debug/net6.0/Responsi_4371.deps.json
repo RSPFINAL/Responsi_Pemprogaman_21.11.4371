@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Responsi_4371/1.0.0": {
+        "runtime": {
+          "Responsi_4371.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Responsi_4371/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

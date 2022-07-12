@@ -1,0 +1,15 @@
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\bin\Debug\net6.0\Responsi_4371.exe
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\bin\Debug\net6.0\Responsi_4371.deps.json
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\bin\Debug\net6.0\Responsi_4371.runtimeconfig.json
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\bin\Debug\net6.0\Responsi_4371.dll
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\bin\Debug\net6.0\Responsi_4371.pdb
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\Responsi_4371.csproj.AssemblyReference.cache
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\Responsi_4371.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\Responsi_4371.AssemblyInfoInputs.cache
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\Responsi_4371.AssemblyInfo.cs
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\Responsi_4371.csproj.CoreCompileInputs.cache
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\Responsi_4371.dll
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\refint\Responsi_4371.dll
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\Responsi_4371.pdb
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\Responsi_4371.genruntimeconfig.cache
+D:\Kuliah\Pemprogaman\Responsi\Responsi_4371\Responsi_4371\obj\Debug\net6.0\ref\Responsi_4371.dll
